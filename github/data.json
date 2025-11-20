@@ -1,0 +1,17 @@
+{
+    "market": [
+      { "name": "میلگرد ۱۴ (اصفهان)", "price": "۲۶,۸۰۰ تومان" },
+      { "name": "تیرآهن ۱۸ (ذوب)", "price": "۵,۴۰۰,۰۰۰ تومان" },
+      { "name": "سیمان تیپ ۲", "price": "۷۸,۵۰۰ تومان" },
+      { "name": "دلار آمریکا", "price": "۶۰,۵۰۰ تومان" }
+    ],
+    "regulations": {
+      "9": "https://dl.example.com/mabhas9.pdf",
+      "10": "https://dl.example.com/mabhas10.pdf",
+      "6": "https://dl.example.com/mabhas6.pdf",
+      "7": "https://dl.example.com/mabhas7.pdf",
+      "8": "https://dl.example.com/mabhas8.pdf",
+      "19": "https://dl.example.com/mabhas19.pdf"
+    },
+    "message": "نسخه جدید افزونه در دسترس است!"
+  }
